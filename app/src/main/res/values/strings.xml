@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="title_toolBar">Weapons App</string>
+    <string name="MG42">MG-42</string>
+    <string name="MP40">MP-40</string>
+    <string name="PPSH41">PPSH-41</string>
+    <string name="PPS43">PPS-43</string>
+    <string name="SVT40">SVT-40</string>
+    <string name="DT29">DT-29</string>
+    <string name="inventor">GERMANY</string>
+
+</resources>
