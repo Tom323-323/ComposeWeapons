@@ -67,7 +67,7 @@ fun WeaponsToolBar(modifier: Modifier = Modifier) {
             .fillMaxWidth()
             .background(color = MaterialTheme.colors.background),
             verticalAlignment = Alignment.CenterVertically,
-            horizontalArrangement = Arrangement.Center
+            horizontalArrangement = Arrangement.SpaceEvenly
 
     ){
         Image(
